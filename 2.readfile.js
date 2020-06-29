@@ -12,3 +12,4 @@ people.forEach((people) => {
 });
 str += "</ul>";
 fs.writeFileSync("./people.html", str); // 可以在文件夹里里面生成一个网页文件
+// 可以在文件夹里里面生成一个网页文件
